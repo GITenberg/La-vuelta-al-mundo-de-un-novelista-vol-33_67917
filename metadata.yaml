@@ -1,0 +1,35 @@
+_repo: La-vuelta-al-mundo-de-un-novelista-vol-33_67917
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Blasco Ibáñez, Vicente
+    aliases:
+    - Blasco Ibanez, Vicente
+    - Ibáñez, Vicente Blasco
+    birthdate: 1867
+    deathdate: 1928
+    gutenberg_agent_id: '647'
+    url: http://www.gutenberg.org/2009/agents/647
+    wikipedia:
+    - https://es.wikipedia.org/wiki/Vicente_Blasco_Ib%C3%A1%C3%B1ez
+    - https://en.wikipedia.org/wiki/Vicente_Blasco_Ib%C3%A1%C3%B1ez
+description: ''
+gutenberg_issued: '2022-04-24'
+identifiers:
+  gutenberg: '67917'
+language: es
+pgterms:marc905: 20220107092540blascoibez
+pgterms:marc906: '1925'
+pgterms:marc907: ES
+production_note: Chuck Greif, Biblioteca Virtual Miguel de Cervantes and the Online
+  Distributed Proofreading Team at https://www.pgdp.net
+publication_note: Spain :Prometeo,1925.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages around the world'
+- !lcc 'G'
+- GITenberg
+title: La vuelta al mundo de un novelista; vol. 3/3
+url: http://www.gutenberg.org/ebooks/67917
